@@ -1,10 +1,10 @@
 # Genetic-and-Simiulated
 This project is done by CNF algorithms
 
-In this project, the goal is to solve a logical expression in CNF form. In fact, 429 statements are given, all of which must be correct. These logical expressions must be defined in the form of 
-100 variables that take the value of zero and one.
+In this project, the goal is to solve a logical expression in CNF form. In fact, 429 statements are given, all of which must be correct.
+These logical expressions must be defined in the form of 100 variables that take the value of zero and one.
 Each entry contains 100 zeros and ones.
-At first, we read the logical expression and save it as a presentation. The array is twodimensional and has 429 members and each member is three.
+At first, we read the logical expression and save it as a presentation. The array is two dimensional and has 429 members and each member is three.
 The program works by receiving an input:
 [1]: genetics
 [2]: simulated
